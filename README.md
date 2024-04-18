@@ -1,2 +1,2 @@
-# credit_card_approval
-Final Mini Project for Stat 486. Includes data from credit card applications and a predictive model of who will be accepted and rejected.
+# Credit Approval Prediction Model
+This repository contains the code and resources for a machine learning project aimed at predicting credit card approval outcomes based on applicant data. The project utilizes a range of machine learning techniques to explore, model, and predict the likelihood of an applicant receiving credit approval. Includes data from a kaggle dataset found here: https://www.kaggle.com/datasets/samuelcortinhas/credit-card-approval-clean-data?select=clean_dataset.csv
